@@ -1,0 +1,5 @@
+{
+  "name": "Crecoin Terminal",
+  "description": "A high-fidelity financial terminal interface for RWA (Real World Assets) protocols, featuring real-time verified data feeds, legal bridge visualization, and nutritional-label style yield breakdowns.",
+  "requestFramePermissions": []
+}
